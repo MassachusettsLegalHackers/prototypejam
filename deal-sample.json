@@ -1,6 +1,7 @@
 {
 
-  "status" : "Offered" 
-  "options" : ["Offered", "Accpeted", "Shipped", "Received"]
+ "description" : "Bob accepts Alice's offer"
+  "status" : "Accepeted" 
+  "options" : ["Offered", "Accepeted", "Shipped", "Received"]
 
 }
