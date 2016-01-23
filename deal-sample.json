@@ -1,6 +1,6 @@
 {
 
-  "status" : "Recieved" 
+  "status" : "Offered" 
   "options" : ["Offered", "Accpeted", "Shipped", "Received"]
 
 }
